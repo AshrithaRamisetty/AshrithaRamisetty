@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ashritha Ramisetty 👋
 
-<!--
-**AshrithaRamisetty/AshrithaRamisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech student in Computer Science Engineering (AI & ML) passionate about building backend systems and AI-driven applications.
 
-Here are some ideas to get you started:
+## Skills
+Java | Python | Machine Learning | NLP | REST APIs | MySQL | Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+• Smart Resume Analyzer with Job Match Predictor  
+• Smart Attendance using Facial Recognition  
+• Hospital Management System  
+
+I enjoy building practical AI solutions and continuously improving my development skills.
+
+GitHub: https://github.com/AshrithaRamisetty
